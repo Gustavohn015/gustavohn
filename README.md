@@ -1,1 +1,3 @@
-# gustavohn
+- Hi! Eu sou o Gustavo Henrique
+-  Atualmente estou estudando html e css 
+-  Comecei nesse mundo da programação á um mês
